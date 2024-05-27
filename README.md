@@ -16,9 +16,9 @@
 
 **1.0.0版本**
 
-![image](image/image-8.png)
+![image](Image/image-8.png)
 
-![image](image/image-9.png)
+![image](Image/image-9.png)
 
 
 
